@@ -38,7 +38,7 @@ int main()
     }
     entrada.close();
   
-    //Paso4 : Cifrar
+    //Paso4 : Cifra
    // string nuevo = Cesar::Cifrar("Martin", 14);
     
    //Paso3 : Crear Login

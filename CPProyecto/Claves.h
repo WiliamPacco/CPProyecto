@@ -4,6 +4,7 @@
 #include <algorithm>
 using namespace std;
 
+//Primera Clase
 struct Cesar {
 	static string Cifrar(string t, int clave);
 	static string Descifrar(string t, int clave);
